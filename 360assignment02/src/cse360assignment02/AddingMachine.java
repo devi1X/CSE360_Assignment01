@@ -1,11 +1,7 @@
 package cse360assignment02;
 /*public class AddingMachine */
 public class AddingMachine {
-	/*main function */
-	public static void main(String[] args)
-	{
-		
-	}
+	
 	/* variable total */
   private int total;
   /* construction */
